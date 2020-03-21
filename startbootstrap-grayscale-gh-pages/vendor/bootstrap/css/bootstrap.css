@@ -481,6 +481,10 @@ mark,
   height: auto;
 }
 
+.img-me {
+  border-radius: 50%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
